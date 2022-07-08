@@ -4,5 +4,6 @@ public class demo1 {
         System.out.println("第二次修改");
         System.out.println("第三次修改");
         System.out.println("这次使用mixed方法");
+        System.out.println("使用分支");
     }
 }
